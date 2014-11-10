@@ -1,0 +1,4 @@
+ink
+===
+
+Testing version tracking with traditional design projects.
